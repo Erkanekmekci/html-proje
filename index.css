@@ -1,10 +1,86 @@
-body{ 
+body {
     background-color: black;
     color: white;
 }
-.container{
+
+.container {
     border: 2px solid red;
     width: 80%;
     margin: auto;
     background-color: grey;
+    border-radius: 20px;
 }
+
+.heading {
+    font-family: 'lobster', cursive;
+
+}
+
+#titile {
+    fron-size: 90px;
+    text-align: center;
+}
+#span1{
+    color: red;
+}
+#img-div{
+    border: 2px solid red;
+    text-align: center;
+
+
+}
+#image{
+    width: 400px;
+}
+#info{
+    border: 1px solid red;
+    width: 80%;
+    margin: 20px;
+    text-align: justify;
+}
+#marvel{
+    border: 1px red;
+    color: red;
+    width: 80%;
+    margin: auto;
+
+}
+ul{
+    border: 1px solid red;
+    width: 80½;
+    margin: auto;
+
+}
+li{
+    font-size: 24px;
+    line-height: 3rem;
+}
+
+#footer{
+    border: 1px solid red;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+
+}
+
+#link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: black;
+
+}
+#link:hover{
+    background-color:rgb(60,57,55) ;
+}
+
+
+
+
+
+
+
