@@ -4,11 +4,11 @@ body {
 }
 
 .container {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 80%;
     margin: auto;
     background-color: rgb(54, 53, 53);
-    border-radius: 20px;
+    /* border-radius: 20px; */
 }
 
 .heading {
@@ -24,7 +24,7 @@ body {
     color: red;
 }
 #img-div{
-    border: 2px solid red;  
+    /* border: 2px solid red;   */
 
     text-align: center;
 
@@ -34,7 +34,7 @@ body {
     width: 400px;
 }
 #info{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 80%;
     margin: 20px auto;
     text-align: justify;
@@ -47,7 +47,7 @@ body {
 
 }
 ul{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 80½;
     margin: auto;
 
@@ -58,7 +58,7 @@ li{
 }
 
 #footer{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 2rem;
     padding: 2rem;
     text-align: center;
@@ -78,10 +78,6 @@ li{
 #link:hover{
     background-color:red;
 }
-
-
-
-
 
 
 
